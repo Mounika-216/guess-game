@@ -1,0 +1,86 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.sec1{
+	margin:13px;
+}
+.again{
+	padding: 16px 38px;
+    font-size: 23px;
+    font-weight: 600;
+}
+.inst{
+	float: right;
+	font-size: 19px;
+    font-weight: 600;
+    color: white;
+}
+.title{
+	text-align: center;
+}
+.title h1{
+	font-size: 48px;
+	 color: white;
+}
+/*SECTON2*/
+.sec2{
+	margin-top: 50px;
+}
+hr{
+	height: 12px;
+    background: white;
+}
+.secret{
+	width: 120px;
+    height: 115px;
+    background: white;
+    transform: translate(518px, -61px);
+}
+.secret p{
+	height: 100%;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-size: 64px;
+}
+.sec3{
+	display: flex;
+    justify-content: space-around;
+}
+.sec3 .left div{
+	margin-top: 20px;
+    margin-left: 45px;
+}
+.sec3 .left div .check{
+	padding: 16px 38px;
+    font-size: 23px;
+    font-weight: 600;
+}
+.sec3 .guess{
+	width: 249px;
+    height: 60px;
+    font-size: 24px;	
+}
+.sec3 .right div{
+	margin-bottom: 30px;
+}
+.sec3 .right .message{
+	font-size: 29px;
+	 color: white;
+}
+.sec3 .right .score{
+	font-size: 25px;
+    margin-bottom: 10px;
+     color: white;
+}
+.sec3 .right .highscore{
+	font-size: 25px;
+	 color: white;
+}
+body{
+	background: black;
+   
+}
